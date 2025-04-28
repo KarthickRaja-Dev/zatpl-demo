@@ -1,0 +1,2388 @@
+[
+  {
+    "training": "Master Program in Advanced Artificial Intelligence and Machine Learning",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Overview of AI Concepts"
+      },
+      {
+        "module": 2,
+        "name": "Types of AI"
+      },
+      {
+        "module": 3,
+        "name": "History and Evolution of AI"
+      },
+      {
+        "module": 4,
+        "name": "AI Agents"
+      },
+      {
+        "module": 5,
+        "name": "AI Algorithms"
+      },
+      {
+        "module": 6,
+        "name": "Cognitive AI"
+      },
+      {
+        "module": 7,
+        "name": "Statistics for AI"
+      },
+      {
+        "module": 8,
+        "name": "Python for AI"
+      },
+      {
+        "module": 9,
+        "name": "Python Data Types"
+      },
+      {
+        "module": 10,
+        "name": "Lists, Tuples, Dictionaries, Sets"
+      },
+      {
+        "module": 11,
+        "name": "Iterators and Generators"
+      },
+      {
+        "module": 12,
+        "name": "Control Flow"
+      },
+      {
+        "module": 13,
+        "name": "Classes, Objects"
+      },
+      {
+        "module": 14,
+        "name": "OOPs in Python"
+      },
+      {
+        "module": 15,
+        "name": "Python Modules and Packages"
+      },
+      {
+        "module": 16,
+        "name": "File I/O in Python"
+      },
+      {
+        "module": 17,
+        "name": "Python Libraries for AI"
+      },
+      {
+        "module": 18,
+        "name": "TensorFlow"
+      },
+      {
+        "module": 19,
+        "name": "Data Acquisition"
+      },
+      {
+        "module": 20,
+        "name": "Data Cleaning"
+      },
+      {
+        "module": 21,
+        "name": "Feature Engineering"
+      },
+      {
+        "module": 22,
+        "name": "Handling Missing Data"
+      },
+      {
+        "module": 23,
+        "name": "Data Scaling"
+      },
+      {
+        "module": 24,
+        "name": "Time Series Analysis"
+      },
+      {
+        "module": 25,
+        "name": "Introduction to Machine Learning"
+      },
+      {
+        "module": 26,
+        "name": "Supervised Learning Algorithms"
+      },
+      {
+        "module": 27,
+        "name": "Unsupervised Learning Techniques"
+      },
+      {
+        "module": 28,
+        "name": "Evaluation Metrics"
+      },
+      {
+        "module": 29,
+        "name": "Dimensionality Reduction"
+      },
+      {
+        "module": 30,
+        "name": "Ensemble Methods"
+      },
+      {
+        "module": 31,
+        "name": "Support Vector Machines"
+      },
+      {
+        "module": 32,
+        "name": "AutoML"
+      },
+      {
+        "module": 33,
+        "name": "Model Optimization"
+      },
+      {
+        "module": 34,
+        "name": "Transfer Learning"
+      },
+      {
+        "module": 35,
+        "name": "Introduction to Neural Networks"
+      },
+      {
+        "module": 36,
+        "name": "Convolutional Neural Networks (CNNs)"
+      },
+      {
+        "module": 37,
+        "name": "Recurrent Neural Networks (RNNs)"
+      },
+      {
+        "module": 38,
+        "name": "LSTMs"
+      },
+      {
+        "module": 39,
+        "name": "Generative Models"
+      },
+      {
+        "module": 40,
+        "name": "Autoencoders"
+      },
+      {
+        "module": 41,
+        "name": "Attention Mechanisms"
+      },
+      {
+        "module": 42,
+        "name": "Transformer Networks"
+      },
+      {
+        "module": 43,
+        "name": "BERT"
+      },
+      {
+        "module": 44,
+        "name": "Sequence-to-Sequence Models"
+      },
+      {
+        "module": 45,
+        "name": "Introduction to NLP"
+      },
+      {
+        "module": 46,
+        "name": "Text Preprocessing"
+      },
+      {
+        "module": 47,
+        "name": "Word Embeddings"
+      },
+      {
+        "module": 48,
+        "name": "Semantic Analysis"
+      },
+      {
+        "module": 49,
+        "name": "Chatbots"
+      },
+      {
+        "module": 50,
+        "name": "Conversational AI"
+      },
+      {
+        "module": 51,
+        "name": "Text Generation"
+      },
+      {
+        "module": 52,
+        "name": "Text Summarization"
+      },
+      {
+        "module": 53,
+        "name": "Fundamentals of Reinforcement Learning"
+      },
+      {
+        "module": 54,
+        "name": "Markov Decision Processes (MDPs)"
+      },
+      {
+        "module": 55,
+        "name": "Q-Learning"
+      },
+      {
+        "module": 56,
+        "name": "Deep Q Networks (DQN)"
+      },
+      {
+        "module": 57,
+        "name": "Policy Gradient Methods"
+      },
+      {
+        "module": 58,
+        "name": "Multi-Agent Reinforcement Learning"
+      },
+      {
+        "module": 59,
+        "name": "Overview of Computer Vision"
+      },
+      {
+        "module": 60,
+        "name": "Image Classification with CNNs"
+      },
+      {
+        "module": 61,
+        "name": "Object Detection"
+      },
+      {
+        "module": 62,
+        "name": "Image Segmentation"
+      },
+      {
+        "module": 63,
+        "name": "Generative Adversarial Networks (GANs)"
+      },
+      {
+        "module": 64,
+        "name": "Advanced Applications in Vision"
+      },
+      {
+        "module": 65,
+        "name": "Ethical Implications of AI"
+      },
+      {
+        "module": 66,
+        "name": "Bias in AI Models"
+      },
+      {
+        "module": 67,
+        "name": "Privacy and Security in AI"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Data Science and Data Analytics with Machine Learning",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Overview of Data Science and Analytics Concepts"
+      },
+      {
+        "module": 2,
+        "name": "Data Science Lifecycle"
+      },
+      {
+        "module": 3,
+        "name": "Real-world Applications"
+      },
+      {
+        "module": 4,
+        "name": "Introduction to Cloud Computing for Data Science"
+      },
+      {
+        "module": 5,
+        "name": "Introduction to Python"
+      },
+      {
+        "module": 6,
+        "name": "Data Types and Variables"
+      },
+      {
+        "module": 7,
+        "name": "Conditional Statements and Looping Statements"
+      },
+      {
+        "module": 8,
+        "name": "Functions"
+      },
+      {
+        "module": 9,
+        "name": "Iterators and Generators"
+      },
+      {
+        "module": 10,
+        "name": "Class and Objects"
+      },
+      {
+        "module": 11,
+        "name": "NumPy"
+      },
+      {
+        "module": 12,
+        "name": "Pandas for Data Manipulation"
+      },
+      {
+        "module": 13,
+        "name": "Handling Missing Data"
+      },
+      {
+        "module": 14,
+        "name": "Feature Engineering (Encoding, Scaling)"
+      },
+      {
+        "module": 15,
+        "name": "Data Cleaning Strategies (Outlier Detection)"
+      },
+      {
+        "module": 16,
+        "name": "Descriptive Statistics"
+      },
+      {
+        "module": 17,
+        "name": "Inferential Statistics"
+      },
+      {
+        "module": 18,
+        "name": "Probability Theory"
+      },
+      {
+        "module": 19,
+        "name": "Probability Distributions"
+      },
+      {
+        "module": 20,
+        "name": "Hypothesis Testing"
+      },
+      {
+        "module": 21,
+        "name": "Creating Plots with Matplotlib"
+      },
+      {
+        "module": 22,
+        "name": "Advanced Visualizations with Seaborn"
+      },
+      {
+        "module": 23,
+        "name": "Creating Charts with Tableau"
+      },
+      {
+        "module": 24,
+        "name": "Designing Advanced Dashboards Using Tableau"
+      },
+      {
+        "module": 25,
+        "name": "Techniques for Summarizing Datasets"
+      },
+      {
+        "module": 26,
+        "name": "Identifying Patterns and Trends"
+      },
+      {
+        "module": 27,
+        "name": "Machine Learning Concepts"
+      },
+      {
+        "module": 28,
+        "name": "Supervised vs. Unsupervised Learning"
+      },
+      {
+        "module": 29,
+        "name": "MLOps"
+      },
+      {
+        "module": 30,
+        "name": "Metrics for Classification"
+      },
+      {
+        "module": 31,
+        "name": "Metrics for Regression"
+      },
+      {
+        "module": 32,
+        "name": "Linear Regression"
+      },
+      {
+        "module": 33,
+        "name": "Logistic Regression"
+      },
+      {
+        "module": 34,
+        "name": "K-Nearest Neighbors"
+      },
+      {
+        "module": 35,
+        "name": "Decision Trees"
+      },
+      {
+        "module": 36,
+        "name": "Random Forests"
+      },
+      {
+        "module": 37,
+        "name": "Polynomial Regression"
+      },
+      {
+        "module": 38,
+        "name": "Naïve Bayes"
+      },
+      {
+        "module": 39,
+        "name": "Clustering"
+      },
+      {
+        "module": 40,
+        "name": "Dimensionality Reduction"
+      },
+      {
+        "module": 41,
+        "name": "Introduction to Automated Machine Learning"
+      },
+      {
+        "module": 42,
+        "name": "Model Selection and Evaluation Using PyCaret"
+      },
+      {
+        "module": 43,
+        "name": "Neural Networks"
+      },
+      {
+        "module": 44,
+        "name": "Deep Learning Model with Practical Examples"
+      },
+      {
+        "module": 45,
+        "name": "Introduction to Natural Language Processing"
+      },
+      {
+        "module": 46,
+        "name": "Key Concepts"
+      },
+      {
+        "module": 47,
+        "name": "Text Classification"
+      },
+      {
+        "module": 48,
+        "name": "Text Clustering"
+      },
+      {
+        "module": 49,
+        "name": "Sentiment Analysis"
+      },
+      {
+        "module": 50,
+        "name": "NLP Use Cases"
+      },
+      {
+        "module": 51,
+        "name": "Overview of Relational Databases"
+      },
+      {
+        "module": 52,
+        "name": "Retrieving Data from Tables"
+      },
+      {
+        "module": 53,
+        "name": "Applying Filters and Sorting Data"
+      },
+      {
+        "module": 54,
+        "name": "Grouping Data"
+      },
+      {
+        "module": 55,
+        "name": "Writing Subqueries"
+      },
+      {
+        "module": 56,
+        "name": "Working with DDL and DML Commands"
+      },
+      {
+        "module": 57,
+        "name": "NoSQL Databases"
+      },
+      {
+        "module": 58,
+        "name": "Overview of Big Data"
+      },
+      {
+        "module": 59,
+        "name": "Power BI"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Front-End Development with JavaScript and ReactJS",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Web Fundamentals"
+      },
+      {
+        "module": 2,
+        "name": "Core JavaScript Concepts"
+      },
+      {
+        "module": 3,
+        "name": "DOM Manipulation & User Interaction"
+      },
+      {
+        "module": 4,
+        "name": "Advanced JavaScript"
+      },
+      {
+        "module": 5,
+        "name": "jQuery & AJAX"
+      },
+      {
+        "module": 6,
+        "name": "NodeJS for Front-End Developers"
+      },
+      {
+        "module": 7,
+        "name": "AngularJS Overview"
+      },
+      {
+        "module": 8,
+        "name": "React js"
+      },
+      {
+        "module": 9,
+        "name": "Building React Applications"
+      },
+      {
+        "module": 10,
+        "name": "React Forms & State Management"
+      },
+      {
+        "module": 11,
+        "name": "Advanced React Features"
+      },
+      {
+        "module": 12,
+        "name": "Redux for State Management"
+      },
+      {
+        "module": 13,
+        "name": "Generative AI"
+      },
+      {
+        "module": 14,
+        "name": "Building & Deploying Projects"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Java Full Stack Web Development",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Introduction to HTML5 and CSS3"
+      },
+      {
+        "module": 2,
+        "name": "HTML Elements, Semantic Structure"
+      },
+      {
+        "module": 3,
+        "name": "Styling with CSS3"
+      },
+      {
+        "module": 4,
+        "name": "Responsive Design Principles"
+      },
+      {
+        "module": 5,
+        "name": "Flexbox and Grid Layout"
+      },
+      {
+        "module": 6,
+        "name": "Grid System, Components, Customization"
+      },
+      {
+        "module": 7,
+        "name": "Responsive Design"
+      },
+      {
+        "module": 8,
+        "name": "Variables, Data Types, Operators"
+      },
+      {
+        "module": 9,
+        "name": "Conditionals and Loops"
+      },
+      {
+        "module": 10,
+        "name": "Functions and Scope"
+      },
+      {
+        "module": 11,
+        "name": "DOM Manipulation"
+      },
+      {
+        "module": 12,
+        "name": "Arrays and Array Methods"
+      },
+      {
+        "module": 13,
+        "name": "Objects and Their Methods"
+      },
+      {
+        "module": 14,
+        "name": "Event Handling"
+      },
+      {
+        "module": 15,
+        "name": "Asynchronous Programming (Promises, Async/Await)"
+      },
+      {
+        "module": 16,
+        "name": "Hoisting"
+      },
+      {
+        "module": 17,
+        "name": "TypeScript Introduction"
+      },
+      {
+        "module": 18,
+        "name": "Types (Primitive Types, Arrays, Tuples, Enums)"
+      },
+      {
+        "module": 19,
+        "name": "Interfaces and Type Aliases"
+      },
+      {
+        "module": 20,
+        "name": "Classes and Inheritance"
+      },
+      {
+        "module": 21,
+        "name": "Functions and Optional Parameters"
+      },
+      {
+        "module": 22,
+        "name": "Type Guards"
+      },
+      {
+        "module": 23,
+        "name": "Conditional Types"
+      },
+      {
+        "module": 24,
+        "name": "Decorators"
+      },
+      {
+        "module": 25,
+        "name": "Introduction to Angular"
+      },
+      {
+        "module": 26,
+        "name": "Angular CLI"
+      },
+      {
+        "module": 27,
+        "name": "Components, Templates, Data Binding"
+      },
+      {
+        "module": 28,
+        "name": "Directives, Pipes, Services"
+      },
+      {
+        "module": 29,
+        "name": "Routing"
+      },
+      {
+        "module": 30,
+        "name": "Forms, Validation, Observables"
+      },
+      {
+        "module": 31,
+        "name": "Angular Material"
+      },
+      {
+        "module": 32,
+        "name": "Data Types and Variables"
+      },
+      {
+        "module": 33,
+        "name": "Conditionals and Loops"
+      },
+      {
+        "module": 34,
+        "name": "Methods, Classes, and Objects"
+      },
+      {
+        "module": 35,
+        "name": "OOP Concepts in Java"
+      },
+      {
+        "module": 36,
+        "name": "Collections in Java"
+      },
+      {
+        "module": 37,
+        "name": "Streams and Lambda Expressions"
+      },
+      {
+        "module": 38,
+        "name": "File Handling in Java"
+      },
+      {
+        "module": 39,
+        "name": "Error Handling"
+      },
+      {
+        "module": 40,
+        "name": "Java EE Design Patterns"
+      },
+      {
+        "module": 41,
+        "name": "Multithreading"
+      },
+      {
+        "module": 42,
+        "name": "JDBC"
+      },
+      {
+        "module": 43,
+        "name": "Testing with JUnit"
+      },
+      {
+        "module": 44,
+        "name": "Setup Environment Using Maven"
+      },
+      {
+        "module": 45,
+        "name": "Servlets and JSP"
+      },
+      {
+        "module": 46,
+        "name": "Spring Core"
+      },
+      {
+        "module": 47,
+        "name": "Spring MVC"
+      },
+      {
+        "module": 48,
+        "name": "Spring Boot"
+      },
+      {
+        "module": 49,
+        "name": "Spring Data JPA with Hibernate"
+      },
+      {
+        "module": 50,
+        "name": "Authentication, Authorization, Configuration"
+      },
+      {
+        "module": 51,
+        "name": "REST Principles, HTTP Methods, JSON"
+      },
+      {
+        "module": 52,
+        "name": "Creating RESTful APIs with Spring Boot"
+      },
+      {
+        "module": 53,
+        "name": "Creating a Real-Time Full Stack CRUD Application"
+      },
+      {
+        "module": 54,
+        "name": "Introduction, Benefits, Challenges"
+      },
+      {
+        "module": 55,
+        "name": "Designing Microservices, Communication Patterns"
+      },
+      {
+        "module": 56,
+        "name": "AWS and AWS EC2 Introduction"
+      },
+      {
+        "module": 57,
+        "name": "Deploying Full Stack App in AWS"
+      },
+      {
+        "module": 58,
+        "name": "Data Types and Constraints"
+      },
+      {
+        "module": 59,
+        "name": "Operators and Special Operators"
+      },
+      {
+        "module": 60,
+        "name": "DDL, DML, DQL, TCL, DCL"
+      },
+      {
+        "module": 61,
+        "name": "Joins, Subqueries, and Aggregate Functions"
+      },
+      {
+        "module": 62,
+        "name": "CRUD Operations Using MySQL"
+      },
+      {
+        "module": 63,
+        "name": "Backup & Recovery"
+      },
+      {
+        "module": 64,
+        "name": "Security"
+      },
+      {
+        "module": 65,
+        "name": "Performance Tuning"
+      },
+      {
+        "module": 66,
+        "name": "Cassandra Introduction"
+      },
+      {
+        "module": 67,
+        "name": "Cassandra Query Language"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Python Full Stack Web Development",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Python Fundamentals: Syntax, Data Types, Control Flow"
+      },
+      {
+        "module": 2,
+        "name": "Object-Oriented Programming: Classes, Objects, Inheritance, Polymorphism"
+      },
+      {
+        "module": 3,
+        "name": "Functional Programming: Lambdas, Map, Filter, Reduce"
+      },
+      {
+        "module": 4,
+        "name": "Python Standard Library: Modules and Packages"
+      },
+      {
+        "module": 5,
+        "name": "Data Structures: Lists, Tuples, Dictionaries, Sets, and Frozensets"
+      },
+      {
+        "module": 6,
+        "name": "File I/O and Exception Handling"
+      },
+      {
+        "module": 7,
+        "name": "HTTP & HTTPS Client"
+      },
+      {
+        "module": 8,
+        "name": "HTML"
+      },
+      {
+        "module": 9,
+        "name": "CSS"
+      },
+      {
+        "module": 10,
+        "name": "JavaScript"
+      },
+      {
+        "module": 11,
+        "name": "Introduction to React: Components, State, Props"
+      },
+      {
+        "module": 12,
+        "name": "JSX and Virtual DOM"
+      },
+      {
+        "module": 13,
+        "name": "Component Lifecycle Methods"
+      },
+      {
+        "module": 14,
+        "name": "State Management: Context API"
+      },
+      {
+        "module": 15,
+        "name": "Routing and Navigation in React"
+      },
+      {
+        "module": 16,
+        "name": "Advanced Python: Decorators, Generators, Metaclasses"
+      },
+      {
+        "module": 17,
+        "name": "Asynchronous Programming: Asyncio"
+      },
+      {
+        "module": 18,
+        "name": "Flask Framework: Creating Web Applications"
+      },
+      {
+        "module": 19,
+        "name": "RESTful APIs: Design, Implementation"
+      },
+      {
+        "module": 20,
+        "name": "PostgreSQL"
+      },
+      {
+        "module": 21,
+        "name": "Django Fundamentals"
+      },
+      {
+        "module": 22,
+        "name": "Database Integration: Django ORM"
+      },
+      {
+        "module": 23,
+        "name": "Testing with Pytest"
+      },
+      {
+        "module": 24,
+        "name": "Deployment: CI/CD Pipelines, Cloud Platforms"
+      },
+      {
+        "module": 25,
+        "name": "Full Stack Project: Building a Complex Web Application"
+      },
+      {
+        "module": 26,
+        "name": "Full Stack Project II: Building a Specialized Application"
+      },
+      {
+        "module": 27,
+        "name": "Machine Learning: Supervised and Unsupervised Learning"
+      },
+      {
+        "module": 28,
+        "name": "ML Algorithms"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Web Development with GEN AI",
+    "modules": [
+      {
+        "module": 1,
+        "name": "HTML Fundamentals"
+      },
+      {
+        "module": 2,
+        "name": "CSS Framework"
+      },
+      {
+        "module": 3,
+        "name": "JavaScript Basics"
+      },
+      {
+        "module": 4,
+        "name": "JS Forms"
+      },
+      {
+        "module": 5,
+        "name": "JS Functions"
+      },
+      {
+        "module": 6,
+        "name": "JS HTML DOM"
+      },
+      {
+        "module": 7,
+        "name": "JQUERY"
+      },
+      {
+        "module": 8,
+        "name": "Strings manipulation"
+      },
+      {
+        "module": 9,
+        "name": "React JS"
+      },
+      {
+        "module": 10,
+        "name": "Next. JS"
+      },
+      {
+        "module": 11,
+        "name": "AJAX"
+      },
+      {
+        "module": 12,
+        "name": "Services & HTTP Client"
+      },
+      {
+        "module": 13,
+        "name": "Node.JS"
+      },
+      {
+        "module": 14,
+        "name": "Express.JS"
+      },
+      {
+        "module": 15,
+        "name": "MongoDB"
+      },
+      {
+        "module": 16,
+        "name": "MySQL"
+      },
+      {
+        "module": 17,
+        "name": "Introduction to GIT version control tool"
+      },
+      {
+        "module": 18,
+        "name": "GIT workflow, GIT branching and GIT commands"
+      },
+      {
+        "module": 19,
+        "name": "Development with chatGPT"
+      },
+      {
+        "module": 20,
+        "name": "Designing with META AI"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Cloud Computing with AWS and GCP",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Introduction to Cloud Computing"
+      },
+      {
+        "module": 2,
+        "name": "Cloud Computing Fundamentals"
+      },
+      {
+        "module": 3,
+        "name": "AWS Overview"
+      },
+      {
+        "module": 4,
+        "name": "AWS Account Setup"
+      },
+      {
+        "module": 5,
+        "name": "Virtual Private Cloud"
+      },
+      {
+        "module": 6,
+        "name": "AWS Route 3"
+      },
+      {
+        "module": 7,
+        "name": "Security Groups and Network ACLs"
+      },
+      {
+        "module": 8,
+        "name": "IAM (Identity and Access Management)"
+      },
+      {
+        "module": 9,
+        "name": "AWS Shield"
+      },
+      {
+        "module": 10,
+        "name": "AWS Key Management Service"
+      },
+      {
+        "module": 11,
+        "name": "Monitoring Services"
+      },
+      {
+        "module": 12,
+        "name": "Logging and Auditing"
+      },
+      {
+        "module": 13,
+        "name": "Auto Scaling"
+      },
+      {
+        "module": 14,
+        "name": "Load Balancing"
+      },
+      {
+        "module": 15,
+        "name": "AWS S3"
+      },
+      {
+        "module": 16,
+        "name": "Amazon Dynamo DB"
+      },
+      {
+        "module": 17,
+        "name": "AWS Lambda"
+      },
+      {
+        "module": 18,
+        "name": "Amazon EC2"
+      },
+      {
+        "module": 19,
+        "name": "Amazon ECS"
+      },
+      {
+        "module": 20,
+        "name": "Amazon EKS"
+      },
+      {
+        "module": 21,
+        "name": "What is GCP?"
+      },
+      {
+        "module": 22,
+        "name": "Understanding Google Cloud Components"
+      },
+      {
+        "module": 23,
+        "name": "Google Cloud Storage Basic Operations"
+      },
+      {
+        "module": 24,
+        "name": "Bucket, Objects and Storage Classes"
+      },
+      {
+        "module": 25,
+        "name": "Authorization and Access Control"
+      },
+      {
+        "module": 26,
+        "name": "Cloud Storage Data Encryption"
+      },
+      {
+        "module": 27,
+        "name": "Cloud Storage Versioning"
+      },
+      {
+        "module": 28,
+        "name": "Cloud Storage Lifecycle Management"
+      },
+      {
+        "module": 29,
+        "name": "Basic Architecture of GCE and Difference Between GCE and Traditional Server"
+      },
+      {
+        "module": 30,
+        "name": "Machine Type, Firewall Rules, Images, Static IP Address"
+      },
+      {
+        "module": 31,
+        "name": "GCP Console for Compute Engine"
+      },
+      {
+        "module": 32,
+        "name": "Autoscaling for VM Instances"
+      },
+      {
+        "module": 33,
+        "name": "Google Cloud SQL"
+      },
+      {
+        "module": 34,
+        "name": "Fundamentals of Load Balancer"
+      },
+      {
+        "module": 35,
+        "name": "Load Balancer Types"
+      },
+      {
+        "module": 36,
+        "name": "Scaling the Application using Google Cloud Load Balancing"
+      },
+      {
+        "module": 37,
+        "name": "Stackdriver Monitoring and Error Reporting"
+      },
+      {
+        "module": 38,
+        "name": "Stackdriver Debugger, Trace and Logging"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Cyber Security",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Introduction to Cyber Security"
+      },
+      {
+        "module": 2,
+        "name": "Fundamentals of Cyber Security"
+      },
+      {
+        "module": 3,
+        "name": "TCP/IP Model & OSI Model"
+      },
+      {
+        "module": 4,
+        "name": "Ports, Transmission Media"
+      },
+      {
+        "module": 5,
+        "name": "Hubs, Bridges, Switch and Router"
+      },
+      {
+        "module": 6,
+        "name": "Common Network Attacks"
+      },
+      {
+        "module": 7,
+        "name": "Network Scanning Techniques"
+      },
+      {
+        "module": 8,
+        "name": "Wireshark"
+      },
+      {
+        "module": 9,
+        "name": "Firewall Concepts and Configurations"
+      },
+      {
+        "module": 10,
+        "name": "Windows and Linux"
+      },
+      {
+        "module": 11,
+        "name": "User and Group Management"
+      },
+      {
+        "module": 12,
+        "name": "Access Controls and Permission"
+      },
+      {
+        "module": 13,
+        "name": "Malware Analysis"
+      },
+      {
+        "module": 14,
+        "name": "Process Explorer and TCP View for Windows"
+      },
+      {
+        "module": 15,
+        "name": "Logging and Grep for Linux"
+      },
+      {
+        "module": 16,
+        "name": "IAM Fundamentals"
+      },
+      {
+        "module": 17,
+        "name": "Access Control Models"
+      },
+      {
+        "module": 18,
+        "name": "OAuth"
+      },
+      {
+        "module": 19,
+        "name": "What is Steganography"
+      },
+      {
+        "module": 20,
+        "name": "Alternate Data Stream in NTFS"
+      },
+      {
+        "module": 21,
+        "name": "How Attackers Hide Data in Images and Other Formats (and How to Find It)"
+      },
+      {
+        "module": 22,
+        "name": "Cryptography"
+      },
+      {
+        "module": 23,
+        "name": "Securing Data by EFS and BitLocker"
+      },
+      {
+        "module": 24,
+        "name": "Types of Cryptography (Symmetric, Asymmetric)"
+      },
+      {
+        "module": 25,
+        "name": "Hash Functions"
+      },
+      {
+        "module": 26,
+        "name": "PKI"
+      },
+      {
+        "module": 27,
+        "name": "Cryptographic Attacks"
+      },
+      {
+        "module": 28,
+        "name": "CrypTool"
+      },
+      {
+        "module": 29,
+        "name": "Penetration Testing Methodologies"
+      },
+      {
+        "module": 30,
+        "name": "Penetration Testing Tools"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced DevOPS",
+    "modules": [
+      {
+        "module": 1,
+        "name": "DevOps foundations"
+      },
+      {
+        "module": 2,
+        "name": "Market trend of DevOps"
+      },
+      {
+        "module": 3,
+        "name": "DevOps Architecture"
+      },
+      {
+        "module": 4,
+        "name": "Tools we use in DevOps"
+      },
+      {
+        "module": 5,
+        "name": "Essentials of Cloud computing"
+      },
+      {
+        "module": 6,
+        "name": "Cloud and virtualization architecture"
+      },
+      {
+        "module": 7,
+        "name": "Cloud deployment architecture"
+      },
+      {
+        "module": 8,
+        "name": "Why we need DevOps on Cloud?"
+      },
+      {
+        "module": 9,
+        "name": "Introduction to Amazon web services(AWS)"
+      },
+      {
+        "module": 10,
+        "name": "Knowing about Version control"
+      },
+      {
+        "module": 11,
+        "name": "GIT – A CLI"
+      },
+      {
+        "module": 12,
+        "name": "GIT setup"
+      },
+      {
+        "module": 13,
+        "name": "GIT workflow, GIT branching and GIT commands"
+      },
+      {
+        "module": 14,
+        "name": "Introduction to Jenkins"
+      },
+      {
+        "module": 15,
+        "name": "Essentials of Continuous Integration"
+      },
+      {
+        "module": 16,
+        "name": "Jenkins and its architecture in detail"
+      },
+      {
+        "module": 17,
+        "name": "Jenkins tool Management in detail"
+      },
+      {
+        "module": 18,
+        "name": "User management in Jenkins"
+      },
+      {
+        "module": 19,
+        "name": "Authentication and Authorisation"
+      },
+      {
+        "module": 20,
+        "name": "Overview of Maven"
+      },
+      {
+        "module": 21,
+        "name": "Creating jobs and automatic build settings"
+      },
+      {
+        "module": 22,
+        "name": "Adding a slave node to Jenkins"
+      },
+      {
+        "module": 23,
+        "name": "Notification settings in Jenkins"
+      },
+      {
+        "module": 24,
+        "name": "Plugin management in Jenkins"
+      },
+      {
+        "module": 25,
+        "name": "Introduction to Docker"
+      },
+      {
+        "module": 26,
+        "name": "Working with container"
+      },
+      {
+        "module": 27,
+        "name": "Introduction to Docker Networking"
+      },
+      {
+        "module": 28,
+        "name": "Docker Swarm – An introduction"
+      },
+      {
+        "module": 29,
+        "name": "Introduction to Kubernetes"
+      },
+      {
+        "module": 30,
+        "name": "Kubernetes Cluster Architecture — An overview"
+      },
+      {
+        "module": 31,
+        "name": "Understanding concepts of Pods, Replica sets, deployments and namespaces"
+      },
+      {
+        "module": 32,
+        "name": "Persistent volumes and persistent volume claims —an overview"
+      },
+      {
+        "module": 33,
+        "name": "Design of Pods"
+      },
+      {
+        "module": 34,
+        "name": "Understanding labels, selectors, jobs, and schedulers"
+      },
+      {
+        "module": 35,
+        "name": "Introducing Ansible – A configuration management tool"
+      },
+      {
+        "module": 36,
+        "name": "Inventory"
+      },
+      {
+        "module": 37,
+        "name": "How to use adhoc commands"
+      },
+      {
+        "module": 38,
+        "name": "Introduction to YAML script"
+      },
+      {
+        "module": 39,
+        "name": "Playbook – YAML"
+      },
+      {
+        "module": 40,
+        "name": "Roles"
+      },
+      {
+        "module": 41,
+        "name": "Including and Importing"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Manual Testing and Automation Testing",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Manual Testing Introduction"
+      },
+      {
+        "module": 2,
+        "name": "Software Development Lifecycle and Models"
+      },
+      {
+        "module": 3,
+        "name": "Methods Of Testing"
+      },
+      {
+        "module": 4,
+        "name": "Testing Techniques"
+      },
+      {
+        "module": 5,
+        "name": "Software Testing Life Cycle and Implementation of Real Time Projects"
+      },
+      {
+        "module": 6,
+        "name": "Use Case and Test Case Design in Project Implementation"
+      },
+      {
+        "module": 7,
+        "name": "Test Execution and Result Analysis"
+      },
+      {
+        "module": 8,
+        "name": "Defect Lifecycle Tracking & Test Closure"
+      },
+      {
+        "module": 9,
+        "name": "User Acceptance Testing (UAT)"
+      },
+      {
+        "module": 10,
+        "name": "Introduction to Automation Testing"
+      },
+      {
+        "module": 11,
+        "name": "Core Java for Testing"
+      },
+      {
+        "module": 12,
+        "name": "Conditional and Looping Statements"
+      },
+      {
+        "module": 13,
+        "name": "OOPS Concepts"
+      },
+      {
+        "module": 14,
+        "name": "Collections in Java"
+      },
+      {
+        "module": 15,
+        "name": "Introduction to Selenium and Selenium WebDriver"
+      },
+      {
+        "module": 16,
+        "name": "Locator Techniques"
+      },
+      {
+        "module": 17,
+        "name": "Synchronization & Advanced WebDriver Concepts"
+      },
+      {
+        "module": 18,
+        "name": "TestNG and Maven"
+      },
+      {
+        "module": 19,
+        "name": "Selenium Grid"
+      },
+      {
+        "module": 20,
+        "name": "AutoIT, Sikulix, Robot Class"
+      },
+      {
+        "module": 21,
+        "name": "Cucumber"
+      },
+      {
+        "module": 22,
+        "name": "Test Data Driven Framework with Real Time Projects"
+      },
+      {
+        "module": 23,
+        "name": "Page Object Model Framework with Real Time Project Implementation"
+      },
+      {
+        "module": 24,
+        "name": "Introduction to GIT Version Control Tool"
+      },
+      {
+        "module": 25,
+        "name": "GIT Workflow, GIT Branching and GIT Commands"
+      },
+      {
+        "module": 26,
+        "name": "Continuous Integration with Jenkins"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced PCB Design",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Introduction"
+      },
+      {
+        "module": 2,
+        "name": "PCB"
+      },
+      {
+        "module": 3,
+        "name": "Difference between PWB and PCB"
+      },
+      {
+        "module": 4,
+        "name": "Types of PCBs"
+      },
+      {
+        "module": 5,
+        "name": "Single Sided (Single Layer)"
+      },
+      {
+        "module": 6,
+        "name": "Multi-Layer (Double Layer)"
+      },
+      {
+        "module": 7,
+        "name": "PCB Materials"
+      },
+      {
+        "module": 8,
+        "name": "Introduction to Electronic Design Automation (EDA)"
+      },
+      {
+        "module": 9,
+        "name": "EDA Tools Overview"
+      },
+      {
+        "module": 10,
+        "name": "Introduction to SPICE and PSPICE Environment"
+      },
+      {
+        "module": 11,
+        "name": "Introduction and Working of PROTEUS"
+      },
+      {
+        "module": 12,
+        "name": "Component Introduction and Their Categories"
+      },
+      {
+        "module": 13,
+        "name": "Types of Components"
+      },
+      {
+        "module": 14,
+        "name": "Active Components"
+      },
+      {
+        "module": 15,
+        "name": "Passive Components"
+      },
+      {
+        "module": 16,
+        "name": "Component Package Types"
+      },
+      {
+        "module": 17,
+        "name": "Through Hole Packages"
+      },
+      {
+        "module": 18,
+        "name": "Surface Mount Packages"
+      },
+      {
+        "module": 19,
+        "name": "Introduction to Development Tools"
+      },
+      {
+        "module": 20,
+        "name": "Introduction to PCB Design using OrCAD Tool"
+      },
+      {
+        "module": 21,
+        "name": "Introduction to PCB Design using PROTEUS Tool"
+      },
+      {
+        "module": 22,
+        "name": "Schematic Design"
+      },
+      {
+        "module": 23,
+        "name": "Electronic Circuit Schematics"
+      },
+      {
+        "module": 24,
+        "name": "Reading and Interpreting Circuit Diagrams"
+      },
+      {
+        "module": 25,
+        "name": "Schematic Capture Tools and Best Practices"
+      },
+      {
+        "module": 26,
+        "name": "Symbol Creation and Library Management"
+      },
+      {
+        "module": 27,
+        "name": "PCB Layout Design"
+      },
+      {
+        "module": 28,
+        "name": "Setting up PCB Design Rules"
+      },
+      {
+        "module": 29,
+        "name": "Understanding Layers: Signal, Ground, Power Planes"
+      },
+      {
+        "module": 30,
+        "name": "Placement of Components: Guidelines and Tips"
+      },
+      {
+        "module": 31,
+        "name": "Routing Techniques: Manual vs Auto-routing"
+      },
+      {
+        "module": 32,
+        "name": "Via Usage and Types"
+      },
+      {
+        "module": 33,
+        "name": "Advanced PCB Layout Techniques"
+      },
+      {
+        "module": 34,
+        "name": "High-Speed Design Considerations"
+      },
+      {
+        "module": 35,
+        "name": "Differential Pairs and Impedance Control"
+      },
+      {
+        "module": 36,
+        "name": "Thermal Management: Heat Sinks and Vias"
+      },
+      {
+        "module": 37,
+        "name": "Power Integrity and Ground Strategies"
+      },
+      {
+        "module": 38,
+        "name": "Multi-layer PCB Design"
+      },
+      {
+        "module": 39,
+        "name": "Fabrication File Generation"
+      },
+      {
+        "module": 40,
+        "name": "Gerber Files and Drill Files Creation and Verification"
+      },
+      {
+        "module": 41,
+        "name": "Bill of Materials (BOM) Preparation"
+      },
+      {
+        "module": 42,
+        "name": "Assembly Drawings and Pick-and-Place Files"
+      },
+      {
+        "module": 43,
+        "name": "Guidelines for Panelization"
+      },
+      {
+        "module": 44,
+        "name": "Manufacturing Process and Troubleshooting"
+      },
+      {
+        "module": 45,
+        "name": "PCB Fabrication: Materials and Techniques"
+      },
+      {
+        "module": 46,
+        "name": "Assembly Process: Soldering Methods, SMT vs Through-Hole"
+      },
+      {
+        "module": 47,
+        "name": "Testing and Debugging"
+      },
+      {
+        "module": 48,
+        "name": "Continuity Testing"
+      },
+      {
+        "module": 49,
+        "name": "Functional Testing"
+      },
+      {
+        "module": 50,
+        "name": "Common PCB Design and Manufacturing Issues"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced Embedded Systems",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Overview of Embedded System"
+      },
+      {
+        "module": 2,
+        "name": "Real-World Applications and Architecture"
+      },
+      {
+        "module": 3,
+        "name": "CPU Architectures: ARM"
+      },
+      {
+        "module": 4,
+        "name": "Embedded C and ANSI C Standards"
+      },
+      {
+        "module": 5,
+        "name": "Core Programming Concepts: Loops, Functions, Pointers, and Memory Management"
+      },
+      {
+        "module": 6,
+        "name": "File Handling, Low-Level Programming, and Debugging Techniques"
+      },
+      {
+        "module": 7,
+        "name": "Electronic Components: Resistors, Capacitors, Inductors, Diodes, Transistors"
+      },
+      {
+        "module": 8,
+        "name": "Switches, Relays, Transformers, and IC Families"
+      },
+      {
+        "module": 9,
+        "name": "Hands-On Soldering, Breadboard Usage, and PCB Prototyping"
+      },
+      {
+        "module": 10,
+        "name": "Study of 8051, PIC, and ARM Cortex-M Microcontrollers"
+      },
+      {
+        "module": 11,
+        "name": "Working with Arduino, ESP8266, and Raspberry Pi"
+      },
+      {
+        "module": 12,
+        "name": "Embedded Linux and Hardware Interfacing"
+      },
+      {
+        "module": 13,
+        "name": "Wired Communication: UART, SPI, I2C, RS-232, RS-485"
+      },
+      {
+        "module": 14,
+        "name": "Industrial Protocols: MODBUS, Profibus, Ethernet/IP"
+      },
+      {
+        "module": 15,
+        "name": "Wireless Protocols: LoRa, BLE, Wi-Fi, GSM, ZigBee, MQTT"
+      },
+      {
+        "module": 16,
+        "name": "Peripheral Interfacing with LCDs, Sensors, and Displays"
+      },
+      {
+        "module": 17,
+        "name": "Embedded Projects: LED Blinking, Sensor Interfacing, Motor Control"
+      },
+      {
+        "module": 18,
+        "name": "Smart Home Automation and Cloud Connectivity (Adafruit, Blynk, MQTT)"
+      },
+      {
+        "module": 19,
+        "name": "Generative AI and Its Applications in Embedded Systems"
+      },
+      {
+        "module": 20,
+        "name": "AI-Driven Predictive Maintenance and Anomaly Detection"
+      },
+      {
+        "module": 21,
+        "name": "PCB Design Using EAGLE/KiCad, Schematic Design, and Routing"
+      },
+      {
+        "module": 22,
+        "name": "PCB Fabrication and Testing"
+      },
+      {
+        "module": 23,
+        "name": "Advanced Debugging: JTAG, GDB, OpenOCD"
+      },
+      {
+        "module": 24,
+        "name": "Industry Coding Standards, Make Utility, and Simulation Tools (Proteus, Keil, STM32CubeIDE)"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced AutoCAD Design",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Overview of AutoCAD Design"
+      },
+      {
+        "module": 2,
+        "name": "Importance of AI in CAD Workflows"
+      },
+      {
+        "module": 3,
+        "name": "Introduction to Onshape: Cloud-Based Design Revolution"
+      },
+      {
+        "module": 4,
+        "name": "AutoCAD Installation and Setup"
+      },
+      {
+        "module": 5,
+        "name": "Configuring Autodesk AI Features"
+      },
+      {
+        "module": 6,
+        "name": "Setting Up Onshape Accounts and Cloud Workflows"
+      },
+      {
+        "module": 7,
+        "name": "Work with Templates"
+      },
+      {
+        "module": 8,
+        "name": "Set and Convert Drawing Units"
+      },
+      {
+        "module": 9,
+        "name": "Types of Lines"
+      },
+      {
+        "module": 10,
+        "name": "Ray and Construction Lines"
+      },
+      {
+        "module": 11,
+        "name": "AI-Assisted Drawing Setup with Autodesk AI"
+      },
+      {
+        "module": 12,
+        "name": "Points and Donuts"
+      },
+      {
+        "module": 13,
+        "name": "Helix Creation Techniques"
+      },
+      {
+        "module": 14,
+        "name": "Divide and Measure Tools"
+      },
+      {
+        "module": 15,
+        "name": "Rectangular Revision Clouds"
+      },
+      {
+        "module": 16,
+        "name": "Rectangle and Triangle Tools"
+      },
+      {
+        "module": 17,
+        "name": "Circle and Its Types"
+      },
+      {
+        "module": 18,
+        "name": "Arc and Its Types"
+      },
+      {
+        "module": 19,
+        "name": "Ellipses and Its Variants"
+      },
+      {
+        "module": 20,
+        "name": "Polygons: Inscribed and Circumscribed"
+      },
+      {
+        "module": 21,
+        "name": "Move and Copy with Precision"
+      },
+      {
+        "module": 22,
+        "name": "Rotate and Scale Objects"
+      },
+      {
+        "module": 23,
+        "name": "Grips and Grip Editing Techniques"
+      },
+      {
+        "module": 24,
+        "name": "Stretch and Lengthen Commands"
+      },
+      {
+        "module": 25,
+        "name": "Join and Explode"
+      },
+      {
+        "module": 26,
+        "name": "Break and Trim Features"
+      },
+      {
+        "module": 27,
+        "name": "Offset Advanced Uses"
+      },
+      {
+        "module": 28,
+        "name": "Fillet and Chamfer for Edge Design"
+      },
+      {
+        "module": 29,
+        "name": "Blend Curves for Complex Geometry"
+      },
+      {
+        "module": 30,
+        "name": "AI-Driven Auto-Editing with Autodesk Tools"
+      },
+      {
+        "module": 31,
+        "name": "Auto Dimensioning with AI Suggestions"
+      },
+      {
+        "module": 32,
+        "name": "Customizing Dimension Styles"
+      },
+      {
+        "module": 33,
+        "name": "Convert and Manage Primary Units"
+      },
+      {
+        "module": 34,
+        "name": "Setting Alternate Units"
+      },
+      {
+        "module": 35,
+        "name": "Advanced Group Commands"
+      },
+      {
+        "module": 36,
+        "name": "Dimension Break and Recovery Techniques"
+      },
+      {
+        "module": 37,
+        "name": "Continue and Baseline Dimensioning"
+      },
+      {
+        "module": 38,
+        "name": "Create and Edit Boundaries"
+      },
+      {
+        "module": 39,
+        "name": "Solid and Hatch Patterns"
+      },
+      {
+        "module": 40,
+        "name": "Gradient Fills for Enhanced Visualization"
+      },
+      {
+        "module": 41,
+        "name": "AI-Based Hatch Pattern Recommendations"
+      },
+      {
+        "module": 42,
+        "name": "Layer and Layer Editing"
+      },
+      {
+        "module": 43,
+        "name": "Align Text Accurately"
+      },
+      {
+        "module": 44,
+        "name": "Baseline and Continue Options"
+      },
+      {
+        "module": 45,
+        "name": "Leaders: Create, Remove, Align, and Collect"
+      },
+      {
+        "module": 46,
+        "name": "Multi-Leader Styles and Management"
+      },
+      {
+        "module": 47,
+        "name": "AI Assistance for Text Placement and Formatting"
+      },
+      {
+        "module": 48,
+        "name": "Create, Insert, and Manage Blocks"
+      },
+      {
+        "module": 49,
+        "name": "Import and Export File Formats"
+      },
+      {
+        "module": 50,
+        "name": "Advanced Xrefs Management"
+      },
+      {
+        "module": 51,
+        "name": "AI-Assisted Block Placement and Organization"
+      },
+      {
+        "module": 52,
+        "name": "Customization and Tool Palettes for Efficiency"
+      },
+      {
+        "module": 53,
+        "name": "Advanced 3D Modeling: Meshes, Solids, and Surfaces"
+      },
+      {
+        "module": 54,
+        "name": "Rendering Techniques for High-Quality Outputs"
+      },
+      {
+        "module": 55,
+        "name": "Onshape Integration"
+      },
+      {
+        "module": 56,
+        "name": "Collaborative Design Workflows"
+      },
+      {
+        "module": 57,
+        "name": "Real-Time Edits and Cloud Features"
+      },
+      {
+        "module": 58,
+        "name": "Managing Assemblies and Parts in Onshape"
+      },
+      {
+        "module": 59,
+        "name": "Project Workflow Management"
+      },
+      {
+        "module": 60,
+        "name": "Documentation Standards and Tools"
+      },
+      {
+        "module": 61,
+        "name": "Collaboration Techniques with Autodesk AI and Onshape"
+      },
+      {
+        "module": 62,
+        "name": "Cloud-Based Project Processes"
+      },
+      {
+        "module": 63,
+        "name": "Project Integration Across AutoCAD and Onshape"
+      },
+      {
+        "module": 64,
+        "name": "Application of AI Tools for Efficiency"
+      },
+      {
+        "module": 65,
+        "name": "Presentation Skills for Professional Showcases"
+      },
+      {
+        "module": 66,
+        "name": "Feedback, Iteration, and Final Refinement"
+      }
+    ]
+  },
+  {
+    "training": "Master Program in Advanced E-CAD Design",
+    "modules": [
+      {
+        "module": 1,
+        "name": "Electrical Computer-Aided Design (E-CAD)"
+      },
+      {
+        "module": 2,
+        "name": "E-CAD in Electrical System Design"
+      },
+      {
+        "module": 3,
+        "name": "Advantages of AutoCAD Electrical in Electrical Engineering"
+      },
+      {
+        "module": 4,
+        "name": "Applications in Industrial and Plant Automation"
+      },
+      {
+        "module": 5,
+        "name": "Electrical Symbols and Notations (IEC, IEEE standards)"
+      },
+      {
+        "module": 6,
+        "name": "Electrical Drawing Standards (IEC 60617, ANSI, DIN, etc.)"
+      },
+      {
+        "module": 7,
+        "name": "Understanding Templates for Standardized Drawing Setups"
+      },
+      {
+        "module": 8,
+        "name": "Creating Custom Templates for Electrical Designs"
+      },
+      {
+        "module": 9,
+        "name": "Managing Symbol Libraries and Wiring Standards"
+      },
+      {
+        "module": 10,
+        "name": "Modifying and Managing Templates for Various Projects"
+      },
+      {
+        "module": 11,
+        "name": "MCCB, MCB, RCCB, ACB, Switchgears"
+      },
+      {
+        "module": 12,
+        "name": "Protective Devices: Fuses, Circuit Breakers, Surge Protectors"
+      },
+      {
+        "module": 13,
+        "name": "Relays and Contactors: Magnetic, Solid-State, Overload"
+      },
+      {
+        "module": 14,
+        "name": "Transformers: Step-up, Step-down, Isolation"
+      },
+      {
+        "module": 15,
+        "name": "Motor Drives: AC, DC, VFDs"
+      },
+      {
+        "module": 16,
+        "name": "IoT and AI-Enabled Components: Smart Relays, Sensors, Automated Devices"
+      },
+      {
+        "module": 17,
+        "name": "Drawing Electrical Components Using AutoCAD Tools"
+      },
+      {
+        "module": 18,
+        "name": "Creating Custom Electrical Components"
+      },
+      {
+        "module": 19,
+        "name": "Importing and Managing Component Libraries"
+      },
+      {
+        "module": 20,
+        "name": "Assigning Electrical Properties to Components"
+      },
+      {
+        "module": 21,
+        "name": "Adding and Managing Wires in Electrical Diagrams"
+      },
+      {
+        "module": 22,
+        "name": "Wire Numbering and Editing Techniques"
+      },
+      {
+        "module": 23,
+        "name": "Understanding Wire Color, Gauge, and Insulation Standards"
+      },
+      {
+        "module": 24,
+        "name": "Source and Destination Arrows in Ladder Logic"
+      },
+      {
+        "module": 25,
+        "name": "Ladder Logic Fundamentals"
+      },
+      {
+        "module": 26,
+        "name": "Adding Rungs in Ladder Diagrams"
+      },
+      {
+        "module": 27,
+        "name": "PLC Wiring and Sensor/Actuator Interfacing"
+      },
+      {
+        "module": 28,
+        "name": "One-Line Diagrams and Power Flow Analysis"
+      },
+      {
+        "module": 29,
+        "name": "Circuit Breakers and Load Calculations"
+      },
+      {
+        "module": 30,
+        "name": "Power Stations and Grid Integration"
+      },
+      {
+        "module": 31,
+        "name": "Designing Instrumentation Circuits for Measurement and Control"
+      },
+      {
+        "module": 32,
+        "name": "Industrial Control Components: Transducers, RTDs, Thermocouples"
+      },
+      {
+        "module": 33,
+        "name": "Power Supply Systems and Redundancy Planning"
+      },
+      {
+        "module": 34,
+        "name": "Introduction to AI Concepts in CAD"
+      },
+      {
+        "module": 35,
+        "name": "Automated Design Suggestions in Software"
+      },
+      {
+        "module": 36,
+        "name": "AI-Powered Error Detection and Correction"
+      },
+      {
+        "module": 37,
+        "name": "Predictive Maintenance and Smart System Integration"
+      },
+      {
+        "module": 38,
+        "name": "Reviewing Electrical Drawings for Compliance"
+      },
+      {
+        "module": 39,
+        "name": "Quality Control in Electrical CAD Work"
+      },
+      {
+        "module": 40,
+        "name": "Generating Project Reports and Specifications"
+      },
+      {
+        "module": 41,
+        "name": "3D Modeling Capabilities in Electrical CAD"
+      },
+      {
+        "module": 42,
+        "name": "Integration with BOM for Collaborative Workflows"
+      },
+      {
+        "module": 43,
+        "name": "Cloud-Based Platforms for Real-Time Collaboration"
+      },
+      {
+        "module": 44,
+        "name": "Managing Large Electrical CAD Projects"
+      },
+      {
+        "module": 45,
+        "name": "Working with Interdisciplinary Teams (MEP, Structural, Architectural)"
+      },
+      {
+        "module": 46,
+        "name": "Time Management and Resource Allocation"
+      },
+      {
+        "module": 47,
+        "name": "Cloud-Based Schematic Designing"
+      },
+      {
+        "module": 48,
+        "name": "Implementing Drawings with Generative AI"
+      },
+      {
+        "module": 49,
+        "name": "Advanced Troubleshooting and Optimization Exercises"
+      }
+    ]
+  }
+]
