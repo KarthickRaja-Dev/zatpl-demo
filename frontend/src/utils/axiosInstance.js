@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:5000/", //"https://zenjade.onrender.com""https://zatpl-backend.onrender.com/","https://zenjade.onrender.com""http://localhost:5000/"
+  baseURL: "https://zatpl-demo.onrender.com", 
   headers: { "Content-Type": "application/json" },
 });
 axiosInstance.interceptors.request.use((config) => {
@@ -20,7 +20,7 @@ axiosInstance.interceptors.response.use(
       error.response?.data?.message ||
       "Something went wrong. Please try again!";
     console.error(error);
-    return Promise.reject(errorMessage); // Send only message, avoid full error object
+    return Promise.reject(errorMessage); 
   }
 );
 
