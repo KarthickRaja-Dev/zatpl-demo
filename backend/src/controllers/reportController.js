@@ -117,14 +117,9 @@ export const addReport = async (req, res) => {
         OT: reportData.ot,
         scheduleConductedTodayBy: reportData.scheduleConductedTodayBy,
       });
-<<<<<<< HEAD
-      
       await newReport.save();
       sendReportEmail(reports);
-=======
-
       await newReport.save();
->>>>>>> dd4e0d9b1303a82f4d7c4e6df86b80e718c7918a
       if (reportData.topicStatus == "training completed") {
         console.log("Found Completion Candidate ");
 
